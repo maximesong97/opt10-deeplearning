@@ -18,4 +18,6 @@ Final number of feature maps = 576
 Number of convolution layers = 6
 Size of the fully connected layer = 128
 
+Accuracy of the network on the 10000 test images: 67.36 %
+
 When observing the courb, we see that we are overfitting on the training data while losing generalisation power (increase of the loss on validation set).
